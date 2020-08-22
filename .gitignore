@@ -2,3 +2,4 @@
 .venv_clean/
 .vscode/
 *.mongodb
+__pycache__
